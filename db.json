@@ -209,14 +209,7 @@
       "price": 4857,
       "img": "product_8.jpg",
       "category_id": 7
-    },
-	{
-		"id": 30,
-		"title": "HyperX Predator RGB 64GB (32GBx2) DDR4 3600MHz DIMM 288-pin CL18",
-		"price": 4857,
-		"img": "product_8.jpg",
-		"category_id": 7
-	}
+    }
   ],
   "comments": [
     {
