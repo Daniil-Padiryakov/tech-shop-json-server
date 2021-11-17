@@ -177,95 +177,46 @@
     },
     {
       "id": 25,
-      "title": "GIGABYTE GeForce RTX 3080 LHR 10240Mb GAMING OC 2.0",
-      "price": 5322,
-      "img": "product_5.jpg",
-      "category_id": 6
-    },
-    {
-      "id": 26,
       "title": "GIGABYTE AORUS Radeon RX 6900 XT MASTER 16G (GV-R69XTAORUS M-16GD)",
       "price": 2579,
       "img": "product_6.jpg",
       "category_id": 6
     },
     {
-      "id": 27,
+      "id": 26,
       "title": "GIGABYTE AORUS Radeon RX 6900 XT MASTER 16G (GV-R69XTAORUS M-16GD)",
       "price": 2576,
       "img": "product_6.jpg",
       "category_id": 6
     },
     {
-      "id": 28,
-      "title": "GIGABYTE AORUS Radeon RX 6900 XT MASTER 16G (GV-R69XTAORUS M-16GD)",
-      "price": 4794,
-      "img": "product_6.jpg",
-      "category_id": 6
-    },
-    {
-      "id": 29,
-      "title": "GIGABYTE AORUS Radeon RX 6900 XT MASTER 16G (GV-R69XTAORUS M-16GD)",
-      "price": 4794,
-      "img": "product_6.jpg",
-      "category_id": 6
-    },
-    {
-      "id": 30,
-      "title": "GIGABYTE AORUS Radeon RX 6900 XT MASTER 16G (GV-R69XTAORUS M-16GD)",
-      "price": 2685,
-      "img": "product_6.jpg",
-      "category_id": 6
-    },
-    {
-      "id": 31,
+      "id": 27,
       "title": "G.SKILL Trident Z Neo 32GB (16GBx2) DDR4 4000MHz DIMM 288-pin CL14 F4-4000C14D-32GTZN",
       "price": 6958,
       "img": "product_7.png",
       "category_id": 7
     },
+	{
+		"id": 28,
+		"title": "G.SKILL Trident Z Neo 32GB (16GBx2) DDR4 4000MHz DIMM 288-pin CL14 F4-4000C14D-32GTZN",
+		"price": 6958,
+		"img": "product_7.png",
+		"category_id": 7
+	  },
     {
-      "id": 32,
-      "title": "G.SKILL Trident Z Neo 32GB (16GBx2) DDR4 4000MHz DIMM 288-pin CL14 F4-4000C14D-32GTZN",
-      "price": 4258,
-      "img": "product_7.png",
-      "category_id": 7
-    },
-    {
-      "id": 33,
-      "title": "G.SKILL Trident Z Neo 32GB (16GBx2) DDR4 4000MHz DIMM 288-pin CL14 F4-4000C14D-32GTZN",
-      "price": 5853,
-      "img": "product_7.png",
-      "category_id": 7
-    },
-    {
-      "id": 34,
+      "id": 29,
       "title": "HyperX Predator RGB 64GB (32GBx2) DDR4 3600MHz DIMM 288-pin CL18",
       "price": 4857,
       "img": "product_8.jpg",
       "category_id": 7
     },
-    {
-      "id": 35,
-      "title": "HyperX Predator RGB 64GB (32GBx2) DDR4 3600MHz DIMM 288-pin CL18",
-      "price": 6958,
-      "img": "product_8.jpg",
-      "category_id": 7
-    },
-    {
-      "id": 36,
-      "title": "HyperX Predator RGB 64GB (32GBx2) DDR4 3600MHz DIMM 288-pin CL18",
-      "price": 4787,
-      "img": "product_8.jpg",
-      "category_id": 7
-    },
-    {
-      "id": 37,
-      "title": "HyperX Predator RGB 64GB (32GBx2) DDR4 3600MHz DIMM 288-pin CL18",
-      "price": 5946,
-      "img": "product_8.jpg",
-      "category_id": 7
-    }
+	{
+		"id": 30,
+		"title": "HyperX Predator RGB 64GB (32GBx2) DDR4 3600MHz DIMM 288-pin CL18",
+		"price": 4857,
+		"img": "product_8.jpg",
+		"category_id": 7
+	}
   ],
   "comments": [
     {
